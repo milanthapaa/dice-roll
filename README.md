@@ -1,2 +1,2 @@
 # dice-roll-simulator
-# Used module - tkinter and random
+# Used module - PIL and random
