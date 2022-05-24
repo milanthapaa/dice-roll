@@ -1,2 +1,2 @@
 # dice-roll-simulator
-## Used module - PIL and random
+Used module - PIL and random
